@@ -1,0 +1,16 @@
+{
+    "email": {
+        "catchall": {
+            "used": false,
+            "catchall": "email.com"
+        },
+        "dotTrick": {
+            "used": true,
+            "email": "email@email.com"
+        },
+        "emailList": {
+            "used": false,
+            "listFile": "./utils/emails.txt"
+        }
+    }
+}
